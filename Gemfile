@@ -7,6 +7,8 @@ gem 'rails', '4.0.0.rc2'
 gem 'jquery-rails'
 gem 'turbolinks'
 
+ruby '2.0.0'
+
 group :production do
     gem 'pg'
 end
